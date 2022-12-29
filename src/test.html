@@ -1,0 +1,18 @@
+<html>
+<!-- setItem : 저장 getItem(key) 읽어오기 removeItem(key)삭제 setItem(key,value)같은이름이면 업데이트 -->
+<script>
+    localStorage.setItem("key", "aaaaaa")
+    console.log(localStorage.getItem("key"))
+
+    setTimeout(() => {
+        localStorage.removeItem("key")
+        console.log(localStorage.getItem("key"));
+
+        setTimeout(() => {
+            localStorage.removeItem("key")
+            console.log(localStorage.getItem("token"));
+        }, 10000)
+    }, 10000)
+</script>
+
+</html>
