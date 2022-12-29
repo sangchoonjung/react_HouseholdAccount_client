@@ -86,7 +86,7 @@ function History({ historyAPI, data }) {
         <Card style={{ maxWidth: "18rem" }}>
           <Card.Img
             variant="top"
-            src="/logo192.png"
+            src="/react_HouseholdAccount_client/logo192.png"
             width={"100%"}
             height={"100%"}
           />
