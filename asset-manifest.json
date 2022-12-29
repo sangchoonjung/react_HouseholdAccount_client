@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react_HouseholdAccount_client/static/css/main.c2cab247.css",
-    "main.js": "/react_HouseholdAccount_client/static/js/main.f2347c16.js",
+    "main.js": "/react_HouseholdAccount_client/static/js/main.37ed61a7.js",
     "index.html": "/react_HouseholdAccount_client/index.html",
     "main.c2cab247.css.map": "/react_HouseholdAccount_client/static/css/main.c2cab247.css.map",
-    "main.f2347c16.js.map": "/react_HouseholdAccount_client/static/js/main.f2347c16.js.map"
+    "main.37ed61a7.js.map": "/react_HouseholdAccount_client/static/js/main.37ed61a7.js.map"
   },
   "entrypoints": [
     "static/css/main.c2cab247.css",
-    "static/js/main.f2347c16.js"
+    "static/js/main.37ed61a7.js"
   ]
 }
