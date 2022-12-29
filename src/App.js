@@ -33,7 +33,7 @@ function App() {
 
   return (
     <div className="container">
-      <BrowserRouter basename="https://sangchoonjung.github.io/react_HouseholdAccount_client">
+      <BrowserRouter basename="/react_HouseholdAccount_client">
         <Header logon={logon} setLogon={setLogon} />
         <Routes>
           <Route index element={<PrivateRoute><History historyAPI={historyAPI} /></PrivateRoute>} />
